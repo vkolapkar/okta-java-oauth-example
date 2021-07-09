@@ -1,1 +1,6 @@
 https://www.confluent.io/blog/monitor-kafka-clusters-with-prometheus-grafana-and-confluent/
+
+Attached are the required stesp in order to register okta in Confluent cloud with the workflow 
+
+Detailed SSO Reference documentation for confluent cloud for okta integration 
+https://docs.confluent.io/cloud/current/access-management/sso.html?ajs_aid=fc2efe2a-28c8-43a7-928b-007d6972a361&ajs_uid=263189#single-si[…]or-ccloud
